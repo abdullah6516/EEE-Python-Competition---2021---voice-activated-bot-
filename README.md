@@ -1,4 +1,5 @@
 # voice-activated-bot
+#  it can open applications , search , tell time and date , tell a joke , save notes and turn off or restart the pc
 # libraries you need to install from terminal
 # pip install  pyttsx3
 # pip install speechRecognition
